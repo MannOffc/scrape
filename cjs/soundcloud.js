@@ -1,7 +1,7 @@
 /**
   * Made by MannR
   * https://whatsapp.com/channel/0029VaGqCO6I1rcjc9hisJ3U
-**
+**/
 let axios = require("axios"), cheerio = require("cheerio"), request = require("request")
 
 async function search(q) {
